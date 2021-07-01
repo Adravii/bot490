@@ -1,0 +1,24 @@
+{
+  "name": "soporte-whaat",
+  "version": "1.0.0",
+  "description": "bot de soporte para el server de momos whaat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarkoPendragon/discord.js-modmail.git"
+  },
+  "author": "elttayman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elttayman"
+  },
+  "homepage": "https://github.com/elttayman",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "path": "^0.12.7"
+  }
+}
